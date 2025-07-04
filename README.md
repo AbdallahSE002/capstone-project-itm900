@@ -7,7 +7,7 @@ To streamline and partially automate the process of reporting and tracking third
 
 ## 🧠 Methodology
 - Stakeholder interviews and business requirement gathering
-- Process flow design using BPMN and Visio
+- Process flow design using BPMN and Draw.io
 - Data workflow mapping and logic design
 - Team collaboration on VBA-based prototype
 
