@@ -15,4 +15,4 @@ To streamline and partially automate the process of reporting and tracking third
 The proposed solution reduced manual reporting errors and improved workflow visibility. It also laid the foundation for a scalable automation framework.
 
 ## 📄 Final Report
-See `ITM900-041 - Final Report - Group 1` for the full project summary and deliverables.
+See `ITM900-041 - Final Report - Group 1.pdf` for the full project summary and deliverables.
